@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tanvir
+- 👀 I’m interested in ... Android devoloping,web devoloping,data analysis.
+- 🌱 I’m currently learning ...Android developing.
+- 💞️ I’m looking to collaborate on ...Android develop.
+- 📫 How to reach me ...chat/text.
